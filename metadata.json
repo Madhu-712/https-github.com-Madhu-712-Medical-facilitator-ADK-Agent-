@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Medical Facilitator AI Demo",
+  "description": "An interactive demo to upload medical documents (as text) and X-ray images. The app uses two AI agents to interpret the data, generate a final report, and simulate saving it to a cloud bucket.Data retriver agent handles PDF extraction\n\nX-ray interpretation\n\nMedical pdf analysis(pre diagnosis info)\n\nMultimodal capability\nMedical Facilitator Agent\n\nClinical reasoning\n\nTreatment plan generation\n\nTravel & logistics\n\nPatient advocacy\n\nfinally a post diagnosis report with all findings should be reported",
+  "requestFramePermissions": []
+}
